@@ -1,0 +1,74 @@
+
+confo@LAPTOP-M8H71O6N MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Documents/
+ Downloads/
+ Favorites/
+ INGRID.txt
+ Links/
+'Local Settings'@
+'Menu Démarrer'@
+'Mes documents'@
+ MicrosoftEdgeBackups/
+ Modèles@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{b336edb4-2d8d-11eb-90b9-f2f17f153022}.TM.blf
+ NTUSER.DAT{b336edb4-2d8d-11eb-90b9-f2f17f153022}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{b336edb4-2d8d-11eb-90b9-f2f17f153022}.TMContainer00000000000000000002.regtrans-ms
+ OneDrive/
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+ Videos/
+"Voisinage d'impression"@
+'Voisinage réseau'@
+ hello-world/
+ index.html
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ wild-git/
+
+confo@LAPTOP-M8H71O6N MINGW64 ~
+$ pwd
+/c/Users/confo
+
+confo@LAPTOP-M8H71O6N MINGW64 ~
+$ cd downloads
+
+confo@LAPTOP-M8H71O6N MINGW64 ~/downloads
+$ ls
+ ChromeSetup.exe*                NOTICE_KBMAC_PRINT.pdf
+'DEVELOPPEUR WEB.mm'             PortableGit/
+ DiscordSetup.exe*               PortableGit-2.29.2.2-64-bit.7z.exe*
+'Firefox Installer.exe'*         TeamViewer_Setup.exe*
+'Firefox Setup 81.0.1.exe'*     'VSCodeUserSetup-x64-1.51.1 (1).exe'*
+'Git-2.29.2.2-64-bit (2).exe'*   VSCodeUserSetup-x64-1.51.1.exe*
+ Git-2.29.2.2-64-bit.exe*        bucn25ww.exe*
+ Git-it-Win-ia32/                desktop.ini
+ Git-it-Win-ia32.zip             prep-course-web-dev-05-forked.zip
+ GitHubDesktopSetup.exe*        'profile-card-component-main (1).zip'
+ HPPSdr.exe*                     profile-card-component-main.zip
+ LSBSetup.exe*
+
+confo@LAPTOP-M8H71O6N MINGW64 ~/downloads
+$ cd ..
+
+confo@LAPTOP-M8H71O6N MINGW64 ~
+$ cd Favorites
+
+confo@LAPTOP-M8H71O6N MINGW64 ~/Favorites
+$ ls
+'ASUS E-Service'/   Bing.url   Lenovo/   Links/   Tripadvisor.url   desktop.ini
+
+confo@LAPTOP-M8H71O6N MINGW64 ~/Favorites
+$
+
+                
